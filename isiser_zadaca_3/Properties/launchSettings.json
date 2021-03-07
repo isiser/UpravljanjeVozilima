@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "isiser_zadaca_2": {
+      "commandName": "Project",
+      "commandLineArgs": "DZ_3_konfiguracija.txt"
+    }
+  }
+}
